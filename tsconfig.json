@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "dist/",
+    "strict": true,
+    "target": "es6"
+  },
+  "exclude": ["node_modules", "jest.config.js", "prettier.config.js"]
+}

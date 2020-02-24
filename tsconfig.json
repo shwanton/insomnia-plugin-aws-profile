@@ -4,7 +4,12 @@
     "outDir": ".",
     "rootDir": "src",
     "strict": true,
-    "target": "es6"
+    "target": "es2017"
   },
-  "exclude": ["node_modules", "jest.config.js", "prettier.config.js"]
+  "exclude": [
+    ".prettierignore",
+    "jest.config.js",
+    "node_modules",
+    "prettier.config.js"
+  ]
 }
